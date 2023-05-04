@@ -1,6 +1,5 @@
 # Lenot-Tommy.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
 	<title>CS1030 Final Project</title>
