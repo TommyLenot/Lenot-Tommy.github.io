@@ -99,8 +99,10 @@
   <li>193 individuals were female</li>
 </ul>
 
+<img src= "Age.png"> <br>
 <img src= "Count of Gender Distribution.png"> <br>
 <img src= "Chest Pain Type.png"> <br>
+<img src= "Cholesterol.png"> <br>
 
  <h3>Conclusion</h3>
 
